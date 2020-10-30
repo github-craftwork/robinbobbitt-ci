@@ -12,4 +12,6 @@ function getWeekNumber (d) {
   return weekNum
 }
 
+my linting error
+
 module.exports = (date) => getWeekNumber(date || new Date())
